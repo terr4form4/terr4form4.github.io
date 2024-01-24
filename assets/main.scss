@@ -1,0 +1,48 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+.about-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.about-photo {
+  margin-left: 30px;
+}
+
+img.fixed-size {
+  width: 200px;
+}
+
+img.large-size {
+  width: 400px;
+}
+
+img.medium-size {
+  width: 250px;
+}
+
+img.small-size {
+  width: 70px;
+}
+
+img.center {
+  display: block;
+  margin: auto;
+}
+
+@media screen and (max-width: 650px) {
+  .about-container {
+    flex-direction: column;
+    align-items: center;
+  }
+  .about-photo {
+    width: 150px;
+  }
+}
+
+@import "minima";
