@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "En saga"
+title: "En Saga"
 date: 2024-01-09 09:03:38 +0200
 categories: berättelser
 comments: true
 author: Patrik Nygren
-tags: [berättelser]
+tags: [berättelser, litteratur]
 ---
 
 För längesedan, långt innan städer och bilar fanns, ja långt innan människan kunde peka på en karta och säga var hon var, var dagarna korta, mycket korta. På den här tiden behövde människor göra många saker, många fler saker än idag. Eftersom man hade så många saker att göra behövde man arbeta mycket snabbt för att hinna med. Om man inte arbetade snabbt nog kunde solen gå ned och så kunde man stå där man inte kände igen sig längre och inte längre se vad man nu höll på med. Därför fanns det sällan tid för att lata sig och föräldrar bestämde sig tidigt för att dela upp sig. På så vis skulle det bli enklare att hinna med att bli färdig med sina olika uppgifter på olika håll. Med tiden beslöt mammorna och papporna också att bo i olika hus för att hinna med ännu mer; papporna arbetade oftast i skogen med träden och stenarna och mammorna på ängarna med växterna och djuren. Idag finns det många som felaktigt tror att familjer var större då och man levde i stora grupper tillsammans på den tiden, men så var det alltså inte, familjer behövde delas upp för allt det som skulle hinnas med. När bilarna, och städerna kom blev det naturligtvis annorlunda och då började man lita mer på varandra, men det dom där nymodigheterna kom långt senare. Så nu vet ni hur det verkligen förhöll sig.
